@@ -1,3 +1,2 @@
-def my_collect(collection) do |i|
+def my_collect(collection) {|i|
   counter +=1
-end
