@@ -1,4 +1,9 @@
-def my_collect(collection) {|collectit| collection.length}
-    counter +=1
+def my_collect(array)
+  i = 0
+  collect = []
+  while i < array.length
+    collect << yield(array[i])
+    i+=1
   end
+  collect
 end
