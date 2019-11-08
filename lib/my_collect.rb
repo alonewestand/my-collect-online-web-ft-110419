@@ -1,4 +1,4 @@
-def my_collection(collection)
+def my_collection(collection) do |name| 
   while
 
   end
