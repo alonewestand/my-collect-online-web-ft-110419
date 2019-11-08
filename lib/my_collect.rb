@@ -1,6 +1,6 @@
-def my_collection(collection) do |name|
+def my_collect(collection) do |name|
   counter = 0
-  while counter
+  while collection.length < 
 
   end
 end
