@@ -1,2 +1,2 @@
-def my_collect(collection) {|i|
+def my_collect(collection) {|collection|
   counter +=1
