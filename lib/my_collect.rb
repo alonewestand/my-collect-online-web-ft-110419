@@ -1,4 +1,4 @@
-def my_collect(collection) do |name|
+def my_collect(collection) do |i|
   counter = 0
   while collection.length < 
 
