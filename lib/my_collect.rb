@@ -1,6 +1,6 @@
 def my_collection(collection) do |name|
-  
-  while
+  counter = 0
+  while counter
 
   end
 end
